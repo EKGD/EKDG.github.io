@@ -32,7 +32,7 @@ body {
 .flip-card-inner {
     position: relative;
     width: 100%;
-    aspect-ratio: 905/1280;
+    aspect-ratio: 1080/1280;
     text-align: center;
     transition: transform 0.6s;
     transform-style: preserve-3d;
